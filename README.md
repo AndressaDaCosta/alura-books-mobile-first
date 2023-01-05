@@ -13,9 +13,9 @@
 
 [🎨 Figma](https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks?node-id=37%3A94)
 
-[🌎 Página](https://github.com/AndressadaCosta/)
+[🌎 Página](https://andressadacosta.github.io/alura-books-mobile-first/)
 
-[👩🏻‍🎓 Certificado](./img/certificado.png)
+[👩🏻‍🎓 Certificado](https://cursos.alura.com.br/certificate/16e82c14-b013-4d74-a819-20c73aec8c2b)
 
 <hr>
 
@@ -26,3 +26,5 @@
 <hr>
 
 <p align="center"> <img src="https://imgur.com/Hy6t2jH.png" alt="HTML e CSS: responsividade com mobile-first"> </p>
+
+<p align="center"> <img src="./img/certificado.png" alt="certificado"> </p>
